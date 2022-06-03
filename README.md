@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsin013&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Mohsin Iqbal" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="hashmat-noorani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohsin013&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mohsin Iqbal" /></p>
 
 ## Connect with me:
 <br/>
