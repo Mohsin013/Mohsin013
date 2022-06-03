@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋, I'm Tapish!</p>
+# <p align="center">Hi 👋, I'm Mohsin Iqbal</p>
 
 **Welcome to my profile!**
 
