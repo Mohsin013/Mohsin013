@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/mohsin-iqbal-424336237/)**
 
-- **Looking Forward For Collaborating Projects So Feel Free To Connect!**
+- 💻 **Looking Forward For Collaborating Projects So Feel Free To Connect!**
 
 <br/>
 
