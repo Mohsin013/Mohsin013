@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/mohsin-iqbal-424336237/)**
 
-- ⚡ Fun fact **I enjoy solving Problems.**
+- **Looking Forward For Collaborating Projects So Feel Free To Connect!**
 
 <br/>
 
@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsin013&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Mohsin Iqbal" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Moshin013&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mohsin Iqbal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="hashmat-noorani" /></p>
 
 ## Connect with me:
 <br/>
