@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Expressjs and mangoDB**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Mohsin013)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mohsin-iqbal-portfolio.netlify.app/)**
 
 - 📫 How to reach me **mohsiniqbal826635@gmail.com**
 
