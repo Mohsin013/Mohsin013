@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on BackEnd
 
-- 🌱 I’m currently learning **NodeJS, Expressjs and mangoDB**
+- 🌱 I’m currently learning **NodeJS, Expressjs and mongoDB**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mohsin-iqbal-portfolio.netlify.app/)**
 
