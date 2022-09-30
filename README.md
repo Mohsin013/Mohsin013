@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on BackEnd
-
-- 🌱 I’m currently learning **NodeJS, Expressjs and mongoDB**
+- 🔭 I’m currently a full stack web developer.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mohsin-iqbal-portfolio.netlify.app/)**
 
