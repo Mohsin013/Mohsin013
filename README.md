@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a full stack web developer.
+- 🔭 I'm a developer proficient in the MERN stack and experienced in integrating Generative AI into projects. Passionate about creating innovative solutions and leveraging the power of AI to enhance applications.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mohsin-iqbal-portfolio.netlify.app/)**
 
