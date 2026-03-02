@@ -70,13 +70,13 @@ Building scalable systems, real-time architectures & AI-powered products.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mohsin013&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohsin013&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin013&layout=compact&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohsin013&layout=compact&theme=github_dark&hide_border=true" 
   />
 </p>
 
