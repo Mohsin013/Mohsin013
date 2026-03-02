@@ -1,93 +1,135 @@
-# <p align="center">Hi 👋, I'm Mohsin Iqbal</p>
-<h3 align="center">Full-Stack Software Engineer | AI Systems Builder | Problem Solver</h3>
+# Mohsin Iqbal
 
-<p align="center">
-Building scalable systems, real-time architectures & AI-powered products.
-</p>
+**Software Development Engineer (AI Systems & Full-Stack)**  
+Building scalable AI-powered systems used by 50,000+ users.
 
----
-
-## 🚀 About Me
-
-- 💻 Software Development Engineer with 2+ years of experience building production-grade systems.
-- 🧠 Architecting AI-powered applications including chatbot systems, AI-generated lecture pipelines, and intelligent proctoring platforms.
-- 🔐 Built multi-device real-time proctoring systems using QR-based device pairing, heartbeat monitoring, Redis pub/sub, and AWS services.
-- ⚡ Strong focus on system design, performance optimization, and scalable backend architecture.
-- 🔍 Naturally curious. I like understanding *how things work under the hood*.
+Jammu and Kashmir, India  
+[LinkedIn](https://linkedin.com/in/mohsin-iqbal) • [GitHub](https://github.com/Mohsin013)
 
 ---
 
-## 🏗️ What I Work With
+## About
 
-### 👨‍💻 Frontend
-- React.js
-- TypeScript
-- Redux / Context API
-- React Native / Expo
-- Nextjs
+I design and ship production-grade AI systems.
 
-### ⚙️ Backend & Infra
-- Node.js
-- Express.js
-- MongoDB
-- Redis
-- BullMQ
-- Firebase (FCM, Auth)
-- AWS (S3, EC2, CloudFront, Rekognition)
+Currently working as an SDE (AI & Full-Stack), where I architect multi-agent LLM systems, real-time proctoring platforms, and large-scale learning infrastructure.  
 
-### 🤖 AI & Emerging Tech
-- OpenAI SDK Integrations
-- Generative AI Workflows
-- Model Chaining Architectures
-- Real-time Streaming Systems
+My work has:
+- Served 50,000+ concurrent learners
+- Reduced operational workload by 70–80%
+- Cut AI serving costs by 77%
+- Automated large parts of recruitment and counselling pipelines
+
+I think in systems, not features.
 
 ---
 
-## 🧩 Highlight Projects
+## Selected Work
 
-- 🔹 **AI Doubt Resolver Chatbot** – Channel-based architecture with streaming responses and persistent state.
-- 🔹 **AI Lecture Generator** – Chained open-source models to generate structured educational content.
-- 🔹 **Intelligent Proctoring System** – Multi-device monitoring system with screenshot analysis, session insights, and anomaly detection.
-- 🔹 **Real-time Notification System** – Firebase + Web Push integration across platforms.
+### AI Lecture Generation Platform
+End-to-end automated pipeline using:
+- OpenAI GPT-4
+- RAG architecture
+- RVC (voice cloning)
+- SADTalker (avatar animation)
 
----
-
-## 📈 Engineering Philosophy
-
-- Build things that scale.
-- Optimize before it becomes a bottleneck.
-- Think in systems, not just components.
-- Simplicity > Overengineering.
-- Consistency > Motivation.
+Scaled to 10,000+ students with full cloud deployment and streaming architecture.
 
 ---
 
-## 📊 GitHub Stats
+### Multi-Agent AI Recruitment System (12+ Agents)
+Designed a distributed agent-based system that:
+- Automates job creation
+- Screens candidates
+- Schedules interviews
+- Reduces manual recruiter workload by 80%
+
+Built using WebSockets, vector embeddings, and orchestration patterns.
+
+---
+
+### Copper — Real-Time AI Proctoring System
+WebRTC-based monitoring platform with:
+- Multi-device QR pairing
+- Redis heartbeat monitoring
+- AWS Rekognition & Textract analysis
+- 70%+ cheating detection accuracy
+- 80% reduction in manual review time
+
+Designed for scale using EC2 auto-scaling, S3, and CloudFront.
+
+---
+
+### LMS Infrastructure Scaling
+Scaled core LMS from 4,000 → 50,000+ concurrent users.
+
+Implemented:
+- Redis caching layer
+- Auto Scaling Groups
+- Load balancers
+- CI/CD pipelines
+- Cost-efficient cloud architecture
+
+---
+
+## Tech Stack
+
+**Languages**
+TypeScript • JavaScript • Python • SQL
+
+**Frontend**
+React • Zustand • Lexical Editor • Tailwind • Vite
+
+**Backend**
+Node.js • Bun • Elysia • Express • GraphQL • tRPC
+
+**AI & ML**
+OpenAI • RAG • Pinecone • Multi-Agent Systems  
+AWS Rekognition • Textract • Vector Embeddings
+
+**Cloud & Infra**
+AWS (EC2, S3, CloudFront, Auto Scaling, Route53, CodePipeline)  
+Redis • BullMQ • WebSocket • WebRTC
+
+---
+
+## Recognition
+
+Exceptional Achiever Award — 2024 & 2025  
+For contributions to AI platform development and infrastructure scaling.
+
+---
+
+## Engineering Philosophy
+
+- Build systems that scale before they break.
+- Optimize cost and performance together.
+- Reduce human dependency through intelligent automation.
+- Keep architecture simple, observable, and resilient.
+
+---
+
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin013&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 </p>
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohsin013&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" 
-  />
+  <img src="https://ghchart.rshah.org/409ba5/Mohsin013" />
 </p>
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohsin013&layout=compact&theme=github_dark&hide_border=true" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsin013&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Currently Exploring
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mohsin-iqbal-424336237/
-- 🌍 Portfolio: [Click Me!](https://mohsiniqbal.vercel.app/)
-- 📧 Email: mohsiniqbal826635@gmail.com
+- Advanced multi-agent orchestration
+- Real-time AI systems at scale
+- Distributed system reliability patterns
+- Cost-efficient LLM infrastructure
 
 ---
 
-> "Leading with code. Building with intent."
+> “Think in systems. Ship with intent.”
