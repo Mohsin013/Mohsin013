@@ -115,9 +115,6 @@ For contributions to AI platform development and infrastructure scaling.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin013&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Mohsin013" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsin013&theme=github-dark&hide_border=true" />
 </p>
 
