@@ -1,54 +1,89 @@
 # <p align="center">Hi 👋, I'm Mohsin Iqbal</p>
+<h3 align="center">Full-Stack Software Engineer | AI Systems Builder | Problem Solver</h3>
 
-**Welcome to my profile!**
-
-<img alt="image header" src="dev1.png"/> 
-
-## 🙋‍♂️ About Me
-
-- 🔭 I'm a developer proficient in the MERN stack and experienced in integrating Generative AI into projects. Passionate about creating innovative solutions and leveraging the power of AI to enhance applications.
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mohsin-iqbal-portfolio.netlify.app/)**
-
-- 📫 How to reach me **mohsiniqbal826635@gmail.com**
-
-- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/mohsin-iqbal-424336237/)**
-
-- 💻 **Looking Forward For Collaborating Projects So Feel Free To Connect!**
-
-<br/>
-
-## ⚙️ My skills
-
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-F24E1E?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-430098?style=for-the-badge&logo=typescript&logoColor=white)
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
-
-### 📚 Learning
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=61DAFB)
-
-## 📊 My Github Stats
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin013&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Mohsin Iqbal" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsin013&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Mohsin Iqbal" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohsin013&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mohsin Iqbal" /></p>
-
-## Connect with me:
-<br/>
-<p align="left">
-<a href="https://twitter.com/__M0hsin" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohsin Iqbal" height="30" width="40"  margin="30px 0"/></a>
-<a href="https://www.linkedin.com/in/mohsin-iqbal-424336237/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohsin Iqbal" height="30" width="40"  margin="30px 0"/></a>
-<a href="https://www.facebook.com/mohsin.iqbal.735507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohsin Iqbal" height="30" width="40" margin="30px 0" /></a>
-<a href="https://www.instagram.com/__m0hsin/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohsin Iqbal" height="30" width="40" margin="30px 0"/></a>
+<p align="center">
+Building scalable systems, real-time architectures & AI-powered products.
 </p>
 
-<br/>
+---
+
+## 🚀 About Me
+
+- 💻 Software Development Engineer with 2+ years of experience building production-grade systems.
+- 🧠 Architecting AI-powered applications including chatbot systems, AI-generated lecture pipelines, and intelligent proctoring platforms.
+- 🔐 Built multi-device real-time proctoring systems using QR-based device pairing, heartbeat monitoring, Redis pub/sub, and AWS services.
+- ⚡ Strong focus on system design, performance optimization, and scalable backend architecture.
+- 🔍 Naturally curious. I like understanding *how things work under the hood*.
+
+---
+
+## 🏗️ What I Work With
+
+### 👨‍💻 Frontend
+- React.js
+- TypeScript
+- Redux / Context API
+- React Native / Expo
+- Nextjs
+
+### ⚙️ Backend & Infra
+- Node.js
+- Express.js
+- MongoDB
+- Redis
+- BullMQ
+- Firebase (FCM, Auth)
+- AWS (S3, EC2, CloudFront, Rekognition)
+
+### 🤖 AI & Emerging Tech
+- OpenAI SDK Integrations
+- Generative AI Workflows
+- Model Chaining Architectures
+- Real-time Streaming Systems
+
+---
+
+## 🧩 Highlight Projects
+
+- 🔹 **AI Doubt Resolver Chatbot** – Channel-based architecture with streaming responses and persistent state.
+- 🔹 **AI Lecture Generator** – Chained open-source models to generate structured educational content.
+- 🔹 **Intelligent Proctoring System** – Multi-device monitoring system with screenshot analysis, session insights, and anomaly detection.
+- 🔹 **Real-time Notification System** – Firebase + Web Push integration across platforms.
+
+---
+
+## 📈 Engineering Philosophy
+
+- Build things that scale.
+- Optimize before it becomes a bottleneck.
+- Think in systems, not just components.
+- Simplicity > Overengineering.
+- Consistency > Motivation.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin013&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsin013&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohsin013&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mohsin-iqbal-424336237/
+- 🌍 Portfolio: [Click Me!](https://mohsiniqbal.vercel.app/)
+- 📧 Email: mohsiniqbal826635@gmail.com
+
+---
+
+> "Leading with code. Building with intent."
