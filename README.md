@@ -4,7 +4,7 @@
 Building scalable AI-powered systems used by 50,000+ users.
 
 Jammu and Kashmir, India  
-[LinkedIn](https://linkedin.com/in/mohsin-iqbal) • [GitHub](https://github.com/Mohsin013)
+[LinkedIn](https://linkedin.com/in/mohsin-iqbal-424336237) • [Portfolio](https://mohsiniqbal.vercel.app/)
 
 ---
 
